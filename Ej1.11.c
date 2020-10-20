@@ -1,3 +1,10 @@
+/* ************************************
+   Fundamentos de Programacion
+   Ejercicios resueltos de EB
+   Ejercicio 1.11 
+   Prof. Dr. Gualberto Asencio Cortes
+   ************************************ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
