@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 void main () {
-  int hora;
+  
+  long hora, aux;
   int horas, minutos, segundos;
-  int aux;
 
   /* Paso 1. Leer hora */
   printf("Hora: ");
-  scanf("%d", &hora);
+  scanf("%ld", &hora);
 
   /* Paso 2. Convertir la hora a horas, minutos y segundos */
   aux = hora;
@@ -17,6 +17,6 @@ void main () {
   horas = aux / 60;
 
   /* Paso 3. Mostrar hora convertida */
-  printf("\nLa hora %d convertida da lugar a %d horas, % minutos y %d segundos.\n", hora, horas, minutos, segundos);
+  printf("\nLa hora %ld convertida da lugar a %d horas, %d minutos y %d segundos.\n", hora, horas, minutos, segundos);
   
 }
