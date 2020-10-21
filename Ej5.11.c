@@ -15,7 +15,7 @@ int filaSumaIgual (int m[NFIL][NCOL], int nfil, int ncol);
 int main () {
   
   int m[NFIL][NCOL];
-  int i, j, res;
+  int i, j, res, nfil, ncol;
 
   /* Paso 1. Leer matriz del teclado */
   printf("Introduzca las dimensiones de la matriz: ");
@@ -40,8 +40,8 @@ int main () {
 
   /* Paso 4. Mostrar matriz */
   printf("\nLa matriz es:\n");
-  for (i = 0; i < N; i++) {
-    for (j = 0; j < N; j++) {
+  for (i = 0; i < nfil; i++) {
+    for (j = 0; j < ncol; j++) {
       printf("%d\t", m[i][j]);
     }
     printf("\n");
