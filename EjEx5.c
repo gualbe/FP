@@ -46,3 +46,4 @@ void imprimirPosiciones (int v[TAM], int tam) {
     }
   }
 }
+
