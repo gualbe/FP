@@ -1,3 +1,10 @@
+/* ************************************
+   Fundamentos de Programacion
+   Ejercicios resueltos de examen T1-5
+   Boletin examen Ej. 2
+   Prof. Dr. Gualberto Asencio Cortes
+   ************************************ */
+
 #include <stdio.h>
 #include <math.h>
 

@@ -1,3 +1,10 @@
+/* ************************************
+   Fundamentos de Programacion
+   Ejercicios resueltos de examen T1-5
+   Boletin examen Ej. 4
+   Prof. Dr. Gualberto Asencio Cortes
+   ************************************ */
+
 #include <stdio.h>
 
 #define TAM 100

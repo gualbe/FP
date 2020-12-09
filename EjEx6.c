@@ -1,3 +1,10 @@
+/* ************************************
+   Fundamentos de Programacion
+   Ejercicios resueltos de examen T1-5
+   Boletin examen Ej. 6
+   Prof. Dr. Gualberto Asencio Cortes
+   ************************************ */
+
 #define NFIL 100
 #define NCOL 100
 
